@@ -1,7 +1,7 @@
 //
 // Created by vlad on 20.10.2019.
 //
-#include "counter.h"
+#include "parallelCounter.h"
 
 int min(int a, int b) {
     return (a < b) ? a : b;

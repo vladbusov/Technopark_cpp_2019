@@ -11,7 +11,7 @@
 #define POTOKI_COUNTER_H
 
 
-#define SIZE_OF_CHUNK 2
+#define SIZE_OF_CHUNK 1000000
 
 int min(int a, int b);
 void charCounter(char* chars, int* cntChars, const char* buffer, int begin, int end);
